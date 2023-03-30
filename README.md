@@ -7,10 +7,15 @@ In the main function we have a function to set the difficulty, then we have a fu
 [Source code](https://github.com/Georgi957/GuessTheComputerNumber/blob/19bb4f5d4930eac29f603b4c6d52da2f812aa6c1/guessTheNumber.js)
 
 **Game start**
-<img width="1280" alt="Start" src="https://user-images.githubusercontent.com/122177357/228782379-1a926f83-6fc3-40ce-a4dc-77cf5c35fe76.png">
+
+<img width="572" alt="Screenshot 2023-03-30 120538" src="https://user-images.githubusercontent.com/122177357/228786840-69a81724-dc51-464d-9889-834e6623e14c.png">
 
 **Chosing difficulty**
-<img width="1280" alt="Difficulty" src="https://user-images.githubusercontent.com/122177357/228782549-ccdfa898-6ed6-46f4-b7f1-7416f64fbaef.png">
+
+<img width="573" alt="Screenshot 2023-03-30 120554" src="https://user-images.githubusercontent.com/122177357/228786946-3244b103-52d4-46a4-aef1-90541bf88f47.png">
 
 **Game ending**
-<img width="1280" alt="Game over" src="https://user-images.githubusercontent.com/122177357/228782675-a11f2128-3a4a-494a-90ee-2f64cacbe7d5.png">
+
+<img width="574" alt="Screenshot 2023-03-30 120609" src="https://user-images.githubusercontent.com/122177357/228787021-c4fd43b9-6396-4012-8ed0-95e8b63a8563.png">
+
+
