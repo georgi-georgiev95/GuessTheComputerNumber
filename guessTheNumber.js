@@ -75,7 +75,6 @@ function guessTheNumber() {
             userAnswer = string.toString();
             if (userAnswer === 'yes') {
                 choseDifficulty();
-                //recursiveAsyncReadLine();
             } else if (userAnswer === 'no') {
                 console.log('See you again!');
                 return readline.close();
